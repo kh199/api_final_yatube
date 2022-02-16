@@ -9,14 +9,12 @@ git clone https://github.com/kh199/api_final_yatube
 Cоздать и активировать виртуальное окружение:
 ```
 python3 -m venv env
-```
 source env/bin/activate
 ```
 
 Установить зависимости из файла requirements.txt:
 ```
 python3 -m pip install --upgrade pip
-```
 pip install -r requirements.txt
 ```
 
